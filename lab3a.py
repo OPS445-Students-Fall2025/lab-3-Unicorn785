@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # return_text_value() function
-# Author ID: pkandasamy7
+# Author ID: pkandasamy7@myseneca.ca
 
 def return_text_value():
     return "Good Morning Terry"  
